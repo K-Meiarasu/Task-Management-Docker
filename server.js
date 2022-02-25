@@ -4,11 +4,11 @@ const mysql = require('mysql2')
 const app = express()
 const cors = require('cors')
 const connection = mysql.createConnection({
-    host: "SG-mydb-5759-mysql-master.servers.mongodirector.com",
-    user: "sgroot",
-    password: "4U$uY9DjE79n1rQH",
-    database: "mydb",
-    port: 3306
+    host: "",
+    user: "",
+    password: "",
+    database: "",
+    port: 
 })
 try
 {
