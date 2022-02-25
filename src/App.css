@@ -1,0 +1,37 @@
+*{
+  text-align: center;
+  font-weight: bold;
+}
+.header{
+  padding: 2vw;
+  color: black;
+  background-color: indianred;
+  font-size: 2.2vw;
+}
+.body{
+  background-color: black;
+  color: blue;
+}
+hr{
+  width: 20vw;
+}
+#box{
+  padding: 2vw;
+  width: 15vw;
+  word-wrap: break-word;
+  margin-left: 40.25%;
+  background-color: transparent;
+  color: indianred;
+  border: 0.2vw solid indianred;
+  height: auto;
+  font-size: 1vw;
+}
+button{
+  padding: 1vw;
+  width: 5vw;
+  margin: 1vw;
+  color: black;
+  background-color: indianred;
+  border-radius: 0.2vw;
+  cursor: pointer;
+}
